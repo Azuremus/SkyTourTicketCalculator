@@ -1,0 +1,135 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20230120172343
+Username: MSI\selle
+RunAs User: MSI\selle
+Configuration Name: 
+Machine: MSI (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\Tools\Microsoft.VisualStudio.DevShell.dll'; Enter-VsDevShell -SetDefaultWindowTitle -InstallPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise' -StartInPath 'C:\devl\Projects\SkyTour' }
+Process ID: 22852
+PSVersion: 5.1.22621.963
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.963
+BuildVersion: 10.0.22621.963
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\TEST-FILE.txt
+PS C:\devl\Projects\SkyTour> .\bin\debug\SkyTour.exe
+
+
+************************** Final Report **************************
+******************************************************************
+******************************************************************
+Passenger Name: Ryan En
+Passenger Age: 36 years
+Weight: 220.5 lbs. (100 kg) price $100.00
+Report Timestamp: 1/20/2023 5:24:15 PM
+******************************************************************
+******************************************************************
+Passenger Name: Caleb Ghu
+Passenger Age: 25 years
+Weight: 350 lbs. (158.73 kg) price $188.10
+Report Timestamp: 1/20/2023 5:24:38 PM
+******************************************************************
+
+The combined weight of all passengers is: 570.5 lbs. (258.73 kg)
+The total cost for this party is: $288.10
+
+Thank you for choosing SkyTour, Inc.
+Have a great day!
+PS C:\devl\Projects\SkyTour> .\bin\debug\SkyTour.exe
+
+
+************************** Final Report **************************
+******************************************************************
+******************************************************************
+Passenger Name: Notorious B.I.G.
+Passenger Age: 100 years
+Weight: 5000 lbs. (2267.57 kg) price $3,351.36
+Report Timestamp: 1/20/2023 5:25:07 PM
+******************************************************************
+******************************************************************
+Passenger Name: Mike Biggs
+Passenger Age: 28 years
+Weight: 120.0006 lbs. (54.42 kg) price $54.42
+Report Timestamp: 1/20/2023 5:25:42 PM
+******************************************************************
+
+The combined weight of all passengers is: 5120.0006 lbs. (2321.99 kg)
+The total cost for this party is: $3,405.78
+
+Thank you for choosing SkyTour, Inc.
+Have a great day!
+PS C:\devl\Projects\SkyTour> .\bin\debug\SkyTour.exe
+
+PS C:\devl\Projects\SkyTour> .\bin\debug\SkyTour.exe
+
+
+************************** Final Report **************************
+******************************************************************
+******************************************************************
+Passenger Name: Ry An
+Passenger Age: 45 years
+Weight: 220.5 lbs. (100 kg) price $100.00
+Report Timestamp: 1/20/2023 5:31:28 PM
+******************************************************************
+******************************************************************
+Passenger Name: Ca Leb
+Passenger Age: 54 years
+Weight: 340 lbs. (154.2 kg) price $181.30
+Report Timestamp: 1/20/2023 5:31:41 PM
+******************************************************************
+
+The combined weight of all passengers is: 560.5 lbs. (254.2 kg)
+The total cost for this party is: $281.30
+
+Thank you for choosing SkyTour, Inc.
+Have a great day!
+PS C:\devl\Projects\SkyTour> .\bin\debug\SkyTour.exe
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What is the first name of passenger 3?
+What is 's last name?
+PS C:\devl\Projects\SkyTour> TerminatingError(): "The pipeline has been stopped."
+>> TerminatingError(): "The pipeline has been stopped."
+PS C:\devl\Projects\SkyTour> .\bin\debug\SkyTour.exe
+
+
+************************** Final Report **************************
+******************************************************************
+******************************************************************
+Passenger Name: Ryan Enyeart
+Passenger Age: 36 years
+Weight: 220.5 lbs. (100 kg) price $100.00
+Report Timestamp: 1/20/2023 5:34:46 PM
+******************************************************************
+
+The combined weight of all passengers is: 220.5 lbs. (100 kg)
+The total cost for this party is: $100.00
+
+Thank you for choosing SkyTour, Inc.
+Have a great day!
+PS C:\devl\Projects\SkyTour> .\bin\debug\SkyTour.exe
+
+
+************************** Final Report **************************
+******************************************************************
+******************************************************************
+Passenger Name: Caleb Ghirmai
+Passenger Age: 1 years
+Weight: 1.08 lbs. (0.49 kg) price $0.49
+Report Timestamp: 1/20/2023 5:35:53 PM
+******************************************************************
+
+The combined weight of all passengers is: 1.08 lbs. (0.49 kg)
+The total cost for this party is: $0.49
+
+Thank you for choosing SkyTour, Inc.
+Have a great day!
+PS C:\devl\Projects\SkyTour> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20230120173614
+**********************

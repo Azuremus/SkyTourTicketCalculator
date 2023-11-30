@@ -1,0 +1,8 @@
+C:\devl\Projects\SkyTour\bin\Release\SkyTour.exe.config
+C:\devl\Projects\SkyTour\bin\Release\SkyTour.exe
+C:\devl\Projects\SkyTour\bin\Release\SkyTour.pdb
+C:\devl\Projects\SkyTour\obj\Release\SkyTour.csproj.AssemblyReference.cache
+C:\devl\Projects\SkyTour\obj\Release\SkyTour.csproj.SuggestedBindingRedirects.cache
+C:\devl\Projects\SkyTour\obj\Release\SkyTour.csproj.CoreCompileInputs.cache
+C:\devl\Projects\SkyTour\obj\Release\SkyTour.exe
+C:\devl\Projects\SkyTour\obj\Release\SkyTour.pdb
